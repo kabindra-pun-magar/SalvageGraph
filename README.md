@@ -1063,7 +1063,7 @@ The proposed stack identifies Docker and Docker Compose for deployment.
 
 ---
 
-# Suggested Repository Structure
+# Repository Structure
 
 The following structure is recommended for the implementation:
 
